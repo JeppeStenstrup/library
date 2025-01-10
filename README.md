@@ -1,2 +1,2 @@
 # Library
-[Test](Test)
+[Test](Test.html)
